@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705362808150",
+    "project_id": "intsaflutter",
+    "storage_bucket": "intsaflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705362808150:android:76c5fb1023734c37c89af7",
+        "android_client_info": {
+          "package_name": "com.example.instagram_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK1f-0QyFoiNFKezNwpy7uHpblGpP3zX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
