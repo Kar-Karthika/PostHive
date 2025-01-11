@@ -1,5 +1,6 @@
 PostHive📸
 PostHive is a social media app inspired by Instagram. Built with Flutter for the frontend and Firebase for backend services, it enables users to share posts, update profiles, and interact with others in real time.
+
 Features ✨
 User Authentication: 
 •	Sign up with email and password.
